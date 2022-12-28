@@ -1,3 +1,3 @@
 # js_freeCodeCamp
 
-first little project - passenger counter
+first little project - simple calculator
